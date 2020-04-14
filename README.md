@@ -21,7 +21,7 @@ This tool for hack Facebook account's
 ### Usage:
 ```
 git clone https://github.com/amine10/FB-cartooch
-cd shellphish
-bash shellphish.sh
+cd FB
+bash cartooch.sh
 ```
 
